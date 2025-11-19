@@ -7,3 +7,4 @@ torch
 soundfile
 pydantic
 python-dotenv
+PyPDF2
