@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+aiofiles
+TTS>=0.11.0
+torch
+soundfile
+pydantic
+python-dotenv
